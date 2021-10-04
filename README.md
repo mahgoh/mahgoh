@@ -2,8 +2,6 @@
 
 ---
 
-<div align="center">
-  
-Made with ❤️ in Switzerland
+### References
 
-</div>
+* **[Badminton Mutschellen](https://badmintonmutschellen.ch)**: Redesign logo & website
