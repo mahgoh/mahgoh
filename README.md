@@ -1,7 +1,3 @@
 ### Hi there 👋
 
----
-
-### References
-
-* **[Badminton Mutschellen](https://badmintonmutschellen.ch)**: Redesign logo & website
+* 🏗 I'm currently working on [https://badmintonmutschellen.ch](https://badmintonmutschellen.ch)
